@@ -4,7 +4,7 @@
 - 🤝 I’m looking to collaborate on basic projects
 - 📫 How to reach me:
     Email - ergo.bhargavi@gmail.com
-    Linkedin - linkedin.com/in/ergobhargavi
+    Linkedin - www.linkedin.com/in/ergobhargavi
 - ⚡ Fun fact: I love playing chess and solving Sudoku puzzles
 
 <!---
