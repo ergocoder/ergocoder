@@ -34,6 +34,16 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ---
+
+## Featured Projects
+
+| Project | Description | Repo & Demo Link |
+|--------|-------------|-----------|
+| Customer Churn Analytics | Identified banking customers at risk of churn by building a Logistic Regression classification model, supported by visualizations.| [🔗Repo](https://github.com/ergocoder/customer-churn-analytics), [🔗Demo](https://customer-churn-analytics-dash.streamlit.app/) |
+| Personal Finance Analytics Dashboard | Built an interactive analytics dashboard with KPI tracking, category filters, monthly trend analysis, smart insights for 1,000+ transaction records. | [🔗Repo](https://github.com/ergocoder/personal-finance-dashboard),  [🔗 Demo](https://personal-finance-analytics-dashboard.streamlit.app/) |
+
+---
+
 ## My GitHub Analytics
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ergocoder&theme=dark" />
@@ -46,15 +56,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ergocoder&theme=react-dark&hide_border=true&radius=10" width="100%"/>
 </p>
-
----
-
-## Featured Projects
-
-| Project | Description | Repo & Demo Link |
-|--------|-------------|-----------|
-| Customer Churn Analytics | Identified banking customers at risk of churn by building a Logistic Regression classification model, supported by visualizations.| [🔗Repo](https://github.com/ergocoder/customer-churn-analytics), [🔗Demo](https://customer-churn-analytics-dash.streamlit.app/) |
-| Personal Finance Analytics Dashboard | Built an interactive analytics dashboard with KPI tracking, category filters, monthly trend analysis, smart insights for 1,000+ transaction records. | [🔗Repo](https://github.com/ergocoder/personal-finance-dashboard),  [🔗 Demo](https://personal-finance-analytics-dashboard.streamlit.app/) |
 
 ---
 
