@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-> I enjoy building data pipelines to translate complex datasets into actionable business insights.
+> I build and evaluate practical AI/ML systems, with a focus on machine learning pipelines, LLM evaluation, and applied AI.
 
 
 ## Tech Stack & Tools
